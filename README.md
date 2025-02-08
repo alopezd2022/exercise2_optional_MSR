@@ -1,3 +1,5 @@
 # exercise2_optional_MSR
 
-![Gif de ejemplo](../assets/animation_gravity.gif)
+Animación del resultado de simular la fuerza de la gravedad sobre una esfera.
+
+![Gif de ejemplo](animation_gravity.gif)
